@@ -1,0 +1,22 @@
+.my-list {
+    background-color: #f7f381;
+    padding: 8px 24px;
+    width: 500px;
+    margin: 0 auto;
+    font-size: 30px;
+    border:1px solid #f7f381;
+    box-shadow: 0 0 10px 2px #333333; 
+}
+.my-list h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+
+.my-list ol {
+    margin: 12px;
+}
+
+.my-list p {
+    text-align: center;
+}
